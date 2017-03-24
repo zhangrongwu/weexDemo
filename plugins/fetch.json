@@ -1,0 +1,18 @@
+{
+    "weex-chart": {
+        "source": {
+            "type": "registry",
+            "id": "weex-chart"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "weex-gcanvas": {
+        "source": {
+            "type": "registry",
+            "id": "weex-gcanvas"
+        },
+        "is_top_level": false,
+        "variables": {}
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "weex-chart-demo",
+  "version": "0.0.1",
+  "scripts":{
+    "start":"weex-devtool index.we"
+  },
+  "dependencies":{
+    "weex-plugin-weex-chart":"*"
+  },
+  "devDependencies":{
+    "weex-devtool":"*"
+  }
+
+}

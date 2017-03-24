@@ -1,0 +1,9 @@
+{
+    "AppName": "WeexDemo",
+    "Version": "0.1",
+    "BuildVersion": "0.1.0",
+    "AppId": "cn.icom.pro.app",
+    "CodeSign": "ENN Group Co.,Ltd.",
+    "Profile": "Enterprise.developerprofile",
+    "WeexBundle": "index.js"
+}
