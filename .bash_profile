@@ -1,0 +1,1 @@
+export PATH=${PATH}:/Users/zhangrongwu/Library/Android/sdk/tools:/Users/zhangrongwu/Library/Android/sdk/platform-tools

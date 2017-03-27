@@ -67,14 +67,14 @@
         nativeBase = bundleUrl.substring(0, bundleUrl.lastIndexOf('/') + 1);
       }
       else {
-        var host = 'localhost:12580';
+        var host = 'localhost:8080';
         var matches = /\/\/([^\/]+?)\//.exec(this.$getConfig().bundleUrl);
         if (matches && matches.length >= 2) {
           host = matches[1];
         }
-        nativeBase = 'http://' + host + '/' + this.dir + '/build/';
+        nativeBase = 'http://' + host + '/';
       }
-      var h5Base = './' + this.dir + '/build/';
+      var h5Base = './';
       // in Native
       var base = nativeBase;
       if (typeof window === 'object') {
